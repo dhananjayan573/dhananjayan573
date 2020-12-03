@@ -1,7 +1,8 @@
 ### Hi there 👋,
 ### Dhananjayan
 #### Design and Development
-I'm DHANANJAYAN from India, I really enjoy learning programming languages. I also enjoy web disigning in general.
+I'm DHANANJAYAN from India, I really enjoy learning programming languages.
+I also enjoy web designing in general.
 
 Skills:  JS / HTML / CSS
 
